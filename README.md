@@ -115,3 +115,7 @@ python3 app.py list_tickets --username test --password test123 --limit 10
 - Add automated unit tests
 - Add logging support
 - Improve input validation and error formatting
+
+## Acknowledgment
+
+During development, ChatGPT was used as a reference for clarifying Python syntax, improving structure, and validating design decisions.
